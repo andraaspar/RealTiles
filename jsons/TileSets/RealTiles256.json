@@ -1,0 +1,22 @@
+{
+	"useColorAsBaseTerrain": false,
+	"fallbackTileSet": null,
+	"ruleVariants": {
+		"Grassland+Hill+Forest": ["Grassland+Hill", "Forest"],
+		"Plains+Hill+Forest": ["Plains+Hill", "Forest"],
+		"Tundra+Hill+Forest": ["Tundra+Hill", "Forest"],
+		"Coast+Ice": ["Coast", "Ice"],
+		"Tundra+Forest+Fort": ["Tundra", "Forest+Fort"],
+		"Plains+Forest+Fort": ["Plains", "Forest+Fort"],
+		"Grassland+Forest+Fort": ["Grassland", "Forest+Fort"],
+		"Tundra+Hill+Forest+Fort": ["Tundra+Hill", "Forest+Fort"],
+		"Plains+Hill+Forest+Fort": ["Plains+Hill", "Forest+Fort"],
+		"Grassland+Hill+Forest+Fort": ["Grassland+Hill", "Forest+Fort"],
+		"Plains+Jungle+Fort": ["Plains", "Jungle+Fort"],
+		"Grassland+Jungle+Fort": ["Grassland", "Jungle+Fort"],
+		"Plains+Hill+Jungle+Fort": ["Plains+Hill", "Jungle+Fort"],
+		"Grassland+Hill+Jungle+Fort": ["Grassland+Hill", "Jungle+Fort"],
+		"Snow+Citadel": ["Snow", "SnowCitadel"],
+		"Snow+Hill+Citadel": ["Snow+Hill", "SnowCitadel"]
+	}
+}

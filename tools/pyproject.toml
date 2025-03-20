@@ -1,0 +1,10 @@
+[project]
+name = "tools"
+version = "0.1.0"
+description = "Build tools"
+readme = "../README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mypy>=1.15.0",
+    "pillow>=11.1.0",
+]

@@ -1,0 +1,126 @@
+Aircraft Carrier → Carrier
+Archery → Archer
+Archery → Atlatlist
+Archery → Bowman
+Archery → Camel Archer
+Archery → Chariot Archer
+Archery → Chu-Ko-Nu
+Archery → Composite Bowman
+Archery → Crossbowman
+Archery → Horse Archer
+Archery → Keshik
+Archery → Longbowman
+Archery → Skirmisher
+Archery → Slinger
+Archery → War Chariot
+Archery → War Elephant
+Armored → Giant Death Robot
+Armored → Landship
+Armored → Modern Armor
+Armored → Panzer
+Armored → Tank
+Atomic Bomber → Atomic Bomb
+Bomber → B17
+Bomber → Bomber
+Bomber → Great War Bomber
+Bomber → Stealth Bomber
+Civilian Water → Work Boats
+Civilian → Great Artist
+Civilian → Great Engineer
+Civilian → Great General
+Civilian → Great Merchant
+Civilian → Great Prophet
+Civilian → Great Scientist
+Civilian → Inquisitor
+Civilian → Khan
+Civilian → Missionary
+Civilian → Settler
+Civilian → SS Booster
+Civilian → SS Cockpit
+Civilian → SS Engine
+Civilian → SS Stasis Chamber
+Civilian → Worker
+Fighter → Fighter
+Fighter → Jet Fighter
+Fighter → Triplane
+Fighter → Zero
+Gunpowder → Anti-Aircraft Gun
+Gunpowder → Anti-Tank Gun
+Gunpowder → Carolean
+Gunpowder → Foreign Legion
+Gunpowder → Great War Infantry
+Gunpowder → Infantry
+Gunpowder → Janissary
+Gunpowder → Marine
+Gunpowder → Mechanized Infantry
+Gunpowder → Mehal Sefari
+Gunpowder → Minuteman
+Gunpowder → Mobile SAM
+Gunpowder → Musketeer
+Gunpowder → Musketman
+Gunpowder → Norwegian Ski Infantry
+Gunpowder → Paratrooper
+Gunpowder → Rifleman
+Gunpowder → Tercio
+Helicopter → Helicopter Gunship
+Melee Water → Caravel
+Melee Water → Destroyer
+Melee Water → Galley
+Melee Water → Ironclad
+Melee Water → Privateer
+Melee Water → Quinquereme
+Melee Water → Sea Beggar
+Melee Water → Trireme
+Melee Water → Turtle Ship
+Missile → Guided Missile
+Missile → Nuclear Missile
+Mounted → African Forest Elephant
+Mounted → Cataphract
+Mounted → Cavalry
+Mounted → Companion Cavalry
+Mounted → Conquistador
+Mounted → Cossack
+Mounted → Hakkapeliitta
+Mounted → Horseman
+Mounted → Hussar
+Mounted → Knight
+Mounted → Lancer
+Mounted → Mandekalu Cavalry
+Mounted → Naresuan's Elephant
+Mounted → Sipahi
+Ranged Gunpowder → Gatling Gun
+Ranged Gunpowder → Machine Gun
+Ranged Water → Battleship
+Ranged Water → Dromon
+Ranged Water → Frigate
+Ranged Water → Galleass
+Ranged Water → Missile Cruiser
+Ranged Water → Ship of the Line
+Scout → Scout
+Siege → Artillery
+Siege → Ballista
+Siege → Cannon
+Siege → Catapult
+Siege → Hwach'a
+Siege → Rocket Artillery
+Siege → Trebuchet
+Submarine → Nuclear Submarine
+Submarine → Submarine
+Sword → Battering Ram
+Sword → Berserker
+Sword → Brute
+Sword → Hoplite
+Sword → Jaguar
+Sword → Landsknecht
+Sword → Legion
+Sword → Longswordsman
+Sword → Maori Warrior
+Sword → Marauder
+Sword → Mohawk Warrior
+Sword → Persian Immortal
+Sword → Pictish Warrior
+Sword → Pikeman
+Sword → Samurai
+Sword → Spearman
+Sword → Swordsman
+Sword → Warrior
