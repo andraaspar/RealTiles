@@ -14,7 +14,6 @@
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -28,9 +27,9 @@
      inkscape:deskcolor="#f1f1f1"
      inkscape:document-units="px"
      labelstyle="default"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="80.079843"
-     inkscape:cy="68.059028"
+     inkscape:zoom="4"
+     inkscape:cx="146.625"
+     inkscape:cy="73.875"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -46,7 +45,7 @@
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="128,147"
+       position="128,77"
        orientation="0,1"
        id="guide2"
        inkscape:label=""
@@ -54,7 +53,19 @@
        inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -77,138 +88,15 @@
          x="255"
          y="153" />
     </g>
-    <path
-       id="rect21"
-       style="fill-opacity:0.80487806;fill:#4faf52"
-       transform="translate(-93.524784)"
-       d="m 93.52478,65 h 10 l 6,12 -6,12 h -10 z"
-       sodipodi:nodetypes="cccccc" />
     <g
        id="g6"
        transform="translate(-93.524784)"
        inkscape:label="pair">
       <path
-         id="rect1"
-         style="fill-opacity:0.80487806;stroke-width:1.07457;fill:#4faf52"
-         transform="matrix(1,0,0.5,0.8660254,0,0)"
-         d="m 73.997017,75.055536 h 8 l -0.928211,13.856406 h -8 z"
-         sodipodi:nodetypes="ccccc" />
-      <path
          id="rect4"
-         style="fill-opacity:0.80487806;stroke-width:1.07457;fill:#4faf52"
-         transform="matrix(1,0,0.5,-0.8660254,0,0)"
-         d="m 162.90897,-102.76835 h 8 l -0.92821,13.856408 h -8 z"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         id="rect5"
-         style="fill:#ffffff;fill-opacity:0.6;stroke-width:1.07457"
-         transform="matrix(1,0,0.5,0.8660254,0,0)"
-         d="m 65.997017,75.055536 h 8 l -0.928211,13.856406 h -8 z"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         id="rect6"
-         style="fill:#ffffff;fill-opacity:0.6;stroke-width:1.07457"
-         transform="matrix(1,0,0.5,-0.8660254,0,0)"
-         d="m 154.90897,-102.76835 h 8 l -0.92821,13.856408 h -8 z"
-         sodipodi:nodetypes="ccccc" />
+         style="fill:#0d2f73;fill-opacity:0.80000001;stroke-width:0.999999"
+         d="m 317.52478,77 3,12 h -211 v 8 h 211 l -3,12 32,-16 z"
+         sodipodi:nodetypes="cccccccc" />
     </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use6"
-       inkscape:label="pair"
-       transform="translate(16)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use7"
-       inkscape:label="pair"
-       transform="translate(32)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use8"
-       inkscape:label="pair"
-       transform="translate(48)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use9"
-       inkscape:label="pair"
-       transform="translate(64)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use10"
-       inkscape:label="pair"
-       transform="translate(80)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use11"
-       inkscape:label="pair"
-       transform="translate(96)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use12"
-       inkscape:label="pair"
-       transform="translate(112)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use13"
-       inkscape:label="pair"
-       transform="translate(128)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use14"
-       inkscape:label="pair"
-       transform="translate(144)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use15"
-       inkscape:label="pair"
-       transform="translate(160)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use16"
-       inkscape:label="pair"
-       transform="translate(176)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use17"
-       inkscape:label="pair"
-       transform="translate(192)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use18"
-       inkscape:label="pair"
-       transform="translate(208)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="use21"
-       inkscape:label="pair"
-       transform="translate(224)" />
   </g>
 </svg>
