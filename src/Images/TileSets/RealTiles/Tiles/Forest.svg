@@ -28,8 +28,8 @@
      inkscape:document-units="px"
      labelstyle="default"
      inkscape:zoom="2.3609709"
-     inkscape:cx="104.19442"
-     inkscape:cy="104.61798"
+     inkscape:cx="103.98265"
+     inkscape:cy="104.4062"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -161,7 +161,7 @@
      id="layer1">
     <g
        id="g25"
-       transform="translate(-29.02246,-20.661133)">
+       transform="translate(-22.02246,-20.661133)">
       <ellipse
          style="fill:#443c32;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
          id="ellipse23"
@@ -213,7 +213,7 @@
     </g>
     <g
        id="g23"
-       transform="translate(0,13.597656)">
+       transform="translate(0,23.597656)">
       <ellipse
          style="fill:#443c32;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
          id="path1"
@@ -254,6 +254,58 @@
          height="1.000001"
          x="255"
          y="223" />
+    </g>
+    <g
+       id="g3"
+       transform="translate(53.02246,1.9357886)">
+      <ellipse
+         style="fill:#443c32;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+         id="ellipse1"
+         cx="128"
+         cy="119.60049"
+         rx="5.6585655"
+         ry="5.0927091" />
+      <rect
+         style="fill:#443c32;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+         id="rect1"
+         width="11.317131"
+         height="11.347697"
+         x="122.34143"
+         y="108.25279" />
+      <path
+         id="path2"
+         style="fill:#2b3d29;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+         d="m 128,33.244141 -18.04492,52.99414 h 0.0254 A 20,18 0 0 0 108,94 a 20,18 0 0 0 20,18 20,18 0 0 0 20,-18 20,18 0 0 0 -1.87109,-7.597656 h 0.002 z" />
+      <path
+         id="path3"
+         style="fill:#3f563a;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+         d="M 128.18359,33.785156 128,33.244141 l -0.38867,1.144531 -17.65039,67.222658 a 20,18 0 0 0 4.46875,5.53515 z" />
+    </g>
+    <g
+       id="g5"
+       transform="translate(-53.005864,1.9357886)">
+      <ellipse
+         style="fill:#443c32;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+         id="ellipse3"
+         cx="128"
+         cy="119.60049"
+         rx="5.6585655"
+         ry="5.0927091" />
+      <rect
+         style="fill:#443c32;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+         id="rect3"
+         width="11.317131"
+         height="11.347697"
+         x="122.34143"
+         y="108.25279" />
+      <path
+         id="path4"
+         style="fill:#2b3d29;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+         d="m 128,33.244141 -18.04492,52.99414 h 0.0254 A 20,18 0 0 0 108,94 a 20,18 0 0 0 20,18 20,18 0 0 0 20,-18 20,18 0 0 0 -1.87109,-7.597656 h 0.002 z" />
+      <path
+         id="path5"
+         style="fill:#3f563a;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+         d="M 128.18359,33.785156 128,33.244141 l -0.38867,1.144531 -17.65039,67.222658 a 20,18 0 0 0 4.46875,5.53515 z" />
     </g>
   </g>
 </svg>
