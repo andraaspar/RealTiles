@@ -11,7 +11,7 @@ bounds:198,298,80,40
 TileSets/RealTiles64/Arrows/UnitWithdrew
 bounds:396,42,64,38
 TileSets/RealTiles64/Borders/ConcaveConvexInner
-bounds:66,6,64,11
+bounds:66,2,64,11
 TileSets/RealTiles64/Borders/ConcaveConvexOuter
 bounds:264,0,64,6
 TileSets/RealTiles64/Borders/ConcaveInner
@@ -19,25 +19,23 @@ bounds:132,2,64,8
 TileSets/RealTiles64/Borders/ConcaveOuter
 bounds:198,0,64,2
 TileSets/RealTiles64/Borders/ConvexInner
-bounds:0,5,64,11
+bounds:0,2,64,11
 TileSets/RealTiles64/Borders/ConvexOuter
 bounds:198,4,64,6
 TileSets/RealTiles64/Crosshair
-bounds:0,76,64,56
-TileSets/RealTiles64/CrosshatchHexagon
-bounds:0,2,64,1
+bounds:0,73,64,56
 TileSets/RealTiles64/Edges/A-Coast-Desert-Top
-bounds:0,18,64,56
+bounds:0,15,64,56
 TileSets/RealTiles64/Edges/A-Lakes-Desert-Top
-bounds:0,18,64,56
+bounds:0,15,64,56
 TileSets/RealTiles64/Edges/A-Coast-Desert-TopLeft
 bounds:330,456,64,56
 TileSets/RealTiles64/Edges/A-Lakes-Desert-TopLeft
 bounds:330,456,64,56
 TileSets/RealTiles64/Edges/A-Coast-Desert-TopRight
-bounds:66,19,64,56
+bounds:66,15,64,56
 TileSets/RealTiles64/Edges/A-Lakes-Desert-TopRight
-bounds:66,19,64,56
+bounds:66,15,64,56
 TileSets/RealTiles64/Edges/A-Coast-Grassland-Top
 bounds:198,340,64,56
 TileSets/RealTiles64/Edges/A-Lakes-Grassland-Top
@@ -99,7 +97,7 @@ bounds:132,64,64,56
 TileSets/RealTiles64/Edges/A-Lakes-Tundra-TopRight
 bounds:132,64,64,56
 TileSets/RealTiles64/Edges/A-Ocean-Coast-Top
-bounds:66,193,64,56
+bounds:66,189,64,56
 TileSets/RealTiles64/Edges/A-Ocean-Coast-TopLeft
 bounds:198,66,64,56
 TileSets/RealTiles64/Edges/A-Ocean-Coast-TopRight
@@ -113,7 +111,7 @@ bounds:330,290,9,6
 TileSets/RealTiles64/Road
 bounds:396,282,9,6
 TileSets/RealTiles64/Tiles/Ancient ruins
-bounds:66,450,64,62
+bounds:0,311,64,62
 TileSets/RealTiles64/Tiles/Atoll
 bounds:396,124,64,47
 TileSets/RealTiles64/Tiles/Barbarian encampment
@@ -121,7 +119,7 @@ bounds:132,452,64,60
 TileSets/RealTiles64/Tiles/Citadel
 bounds:132,12,64,50
 TileSets/RealTiles64/Tiles/City center
-bounds:0,446,64,66
+bounds:0,375,64,66
 TileSets/RealTiles64/Tiles/Coast
 bounds:396,456,64,56
 TileSets/RealTiles64/Tiles/Desert
@@ -129,21 +127,21 @@ bounds:264,124,64,56
 TileSets/RealTiles64/Tiles/Desert+Hill
 bounds:264,240,64,56
 TileSets/RealTiles64/Tiles/El Dorado
-bounds:66,388,64,60
+bounds:66,384,64,60
 TileSets/RealTiles64/Tiles/Fountain of Youth
-bounds:66,388,64,60
+bounds:66,384,64,60
 TileSets/RealTiles64/Tiles/Fallout
 bounds:396,173,64,49
 TileSets/RealTiles64/Tiles/Flood plains
-bounds:0,134,64,56
+bounds:0,131,64,56
 TileSets/RealTiles64/Tiles/Forest
-bounds:66,77,64,56
+bounds:66,73,64,56
 TileSets/RealTiles64/Tiles/Forest+Fort
-bounds:0,378,64,66
+bounds:66,446,64,66
 TileSets/RealTiles64/Tiles/Fort
-bounds:66,329,64,57
+bounds:66,325,64,57
 TileSets/RealTiles64/Tiles/Grassland
-bounds:66,135,64,56
+bounds:66,131,64,56
 TileSets/RealTiles64/Tiles/Grassland+Hill
 bounds:132,336,64,56
 TileSets/RealTiles64/Tiles/Great Barrier Reef
@@ -151,9 +149,9 @@ bounds:412,282,64,56
 TileSets/RealTiles64/Tiles/Ice
 bounds:198,12,64,52
 TileSets/RealTiles64/Tiles/Jungle
-bounds:0,250,59,62
+bounds:0,247,59,62
 TileSets/RealTiles64/Tiles/Jungle+Fort
-bounds:0,314,64,62
+bounds:0,443,64,69
 TileSets/RealTiles64/Tiles/Lakes
 bounds:264,456,64,56
 TileSets/RealTiles64/Tiles/Marsh
@@ -190,38 +188,40 @@ TileSets/RealTiles64/Tiles/Plains
 bounds:264,398,64,56
 TileSets/RealTiles64/Tiles/Plains+Hill
 bounds:330,0,64,56
-TileSets/RealTiles64/Tiles/River-Bottom
-bounds:66,0,64,4
 TileSets/RealTiles64/Tiles/River-BottomRight
-bounds:66,295,64,32
+bounds:66,291,64,32
 TileSets/RealTiles64/Tiles/Snow
 bounds:198,456,64,56
 TileSets/RealTiles64/Tiles/Snow+Hill
 bounds:132,180,64,56
 TileSets/RealTiles64/Tiles/SnowCitadel
-bounds:0,192,64,56
+bounds:0,189,64,56
 TileSets/RealTiles64/Tiles/Tundra
 bounds:396,224,64,56
 TileSets/RealTiles64/Tiles/Tundra+Hill
 bounds:330,340,64,56
 TileSets/RealTiles64/UnexploredTile
-bounds:61,251,64,42
+bounds:61,247,64,42
 
 game642.png
 size:512,64
 filter:MipMapLinearLinear,MipMapLinearLinear
 repeat:none
 TileSets/RealTiles64/Arrows/Generic
-bounds:132,13,64,38
+bounds:132,16,64,38
 TileSets/RealTiles64/Arrows/UnitHasAttacked
-bounds:66,13,64,38
+bounds:66,16,64,38
 TileSets/RealTiles64/Arrows/CityHasAttacked
-bounds:66,13,64,38
+bounds:66,16,64,38
 TileSets/RealTiles64/Arrows/UnitMoving
-bounds:0,13,64,38
+bounds:0,16,64,38
 TileSets/RealTiles64/Borders/ConvexConcaveInner
-bounds:0,0,64,11
+bounds:0,3,64,11
 TileSets/RealTiles64/Borders/ConvexConcaveOuter
-bounds:264,45,64,6
+bounds:264,48,64,6
+TileSets/RealTiles64/CrosshatchHexagon
+bounds:0,0,64,1
+TileSets/RealTiles64/Tiles/River-Bottom
+bounds:198,16,64,4
 TileSets/RealTiles64/Tiles/River-BottomLeft
-bounds:198,19,64,32
+bounds:198,22,64,32
