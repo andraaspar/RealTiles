@@ -28,9 +28,9 @@
      inkscape:deskcolor="#f1f1f1"
      inkscape:document-units="px"
      labelstyle="default"
-     inkscape:zoom="3.3389169"
-     inkscape:cx="94.791217"
-     inkscape:cy="79.516803"
+     inkscape:zoom="1.6694585"
+     inkscape:cx="62.29565"
+     inkscape:cy="109.91588"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -55,224 +55,136 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath14">
-      <path
-         sodipodi:type="star"
-         style="fill:#55774f;fill-opacity:1;stroke:none;stroke-width:30.0978;stroke-linejoin:round;stroke-opacity:0.4"
-         id="path15"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="128"
-         sodipodi:cy="112"
-         sodipodi:r1="128"
-         sodipodi:r2="110.85125"
-         sodipodi:arg1="0"
-         sodipodi:arg2="0.52359878"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.9921875,0,0,1.0013419,1,-24.15029)"
-         d="m 256,112 -64,110.85125 -128,0 L 0,112 64,1.1487483 l 128,0 z" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath15">
-      <path
-         sodipodi:type="star"
-         style="fill:#55774f;fill-opacity:1;stroke:none;stroke-width:30.0978;stroke-linejoin:round;stroke-opacity:0.4"
-         id="path16"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="128"
-         sodipodi:cy="112"
-         sodipodi:r1="128"
-         sodipodi:r2="110.85125"
-         sodipodi:arg1="0"
-         sodipodi:arg2="0.52359878"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.9921875,0,0,1.0013419,1,-24.15029)"
-         d="m 256,112 -64,110.85125 -128,0 L 0,112 64,1.1487483 l 128,0 z" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath16">
-      <path
-         sodipodi:type="star"
-         style="fill:#55774f;fill-opacity:1;stroke:none;stroke-width:30.0978;stroke-linejoin:round;stroke-opacity:0.4"
-         id="path17"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="128"
-         sodipodi:cy="112"
-         sodipodi:r1="128"
-         sodipodi:r2="110.85125"
-         sodipodi:arg1="0"
-         sodipodi:arg2="0.52359878"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.9921875,0,0,1.0013419,1,-24.15029)"
-         d="m 256,112 -64,110.85125 -128,0 L 0,112 64,1.1487483 l 128,0 z" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath17">
-      <path
-         sodipodi:type="star"
-         style="fill:#55774f;fill-opacity:1;stroke:none;stroke-width:30.0978;stroke-linejoin:round;stroke-opacity:0.4"
-         id="path18"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="128"
-         sodipodi:cy="112"
-         sodipodi:r1="128"
-         sodipodi:r2="110.85125"
-         sodipodi:arg1="0"
-         sodipodi:arg2="0.52359878"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.9921875,0,0,1.0013419,1,-24.15029)"
-         d="m 256,112 -64,110.85125 -128,0 L 0,112 64,1.1487483 l 128,0 z" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath20">
-      <path
-         style="fill:#5a4f42;fill-opacity:1;stroke-width:10;stroke-linejoin:round"
-         d="M 1,80.000003 64.5,191.00001 v 32 L 1,112 Z"
-         id="path21"
-         sodipodi:nodetypes="ccccc" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath22">
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="rect23"
-         width="190.5"
-         height="143"
-         x="64.499962"
-         y="80.000008" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath22-4">
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="rect23-8"
-         width="190.5"
-         height="143"
-         x="64.499962"
-         y="80.000008" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath14-8">
-      <path
-         sodipodi:type="star"
-         style="fill:#55774f;fill-opacity:1;stroke:none;stroke-width:30.0978;stroke-linejoin:round;stroke-opacity:0.4"
-         id="path15-2"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="128"
-         sodipodi:cy="112"
-         sodipodi:r1="128"
-         sodipodi:r2="110.85125"
-         sodipodi:arg1="0"
-         sodipodi:arg2="0.52359878"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.9921875,0,0,1.0013419,1,-24.15029)"
-         d="m 256,112 -64,110.85125 -128,0 L 0,112 64,1.1487483 l 128,0 z" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath15-4">
-      <path
-         sodipodi:type="star"
-         style="fill:#55774f;fill-opacity:1;stroke:none;stroke-width:30.0978;stroke-linejoin:round;stroke-opacity:0.4"
-         id="path16-5"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="128"
-         sodipodi:cy="112"
-         sodipodi:r1="128"
-         sodipodi:r2="110.85125"
-         sodipodi:arg1="0"
-         sodipodi:arg2="0.52359878"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.9921875,0,0,1.0013419,1,-24.15029)"
-         d="m 256,112 -64,110.85125 -128,0 L 0,112 64,1.1487483 l 128,0 z" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath17-5">
-      <path
-         sodipodi:type="star"
-         style="fill:#55774f;fill-opacity:1;stroke:none;stroke-width:30.0978;stroke-linejoin:round;stroke-opacity:0.4"
-         id="path18-1"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="128"
-         sodipodi:cy="112"
-         sodipodi:r1="128"
-         sodipodi:r2="110.85125"
-         sodipodi:arg1="0"
-         sodipodi:arg2="0.52359878"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.9921875,0,0,1.0013419,1,-24.15029)"
-         d="m 256,112 -64,110.85125 -128,0 L 0,112 64,1.1487483 l 128,0 z" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath16-7">
-      <path
-         sodipodi:type="star"
-         style="fill:#55774f;fill-opacity:1;stroke:none;stroke-width:30.0978;stroke-linejoin:round;stroke-opacity:0.4"
-         id="path17-1"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="128"
-         sodipodi:cy="112"
-         sodipodi:r1="128"
-         sodipodi:r2="110.85125"
-         sodipodi:arg1="0"
-         sodipodi:arg2="0.52359878"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.9921875,0,0,1.0013419,1,-24.15029)"
-         d="m 256,112 -64,110.85125 -128,0 L 0,112 64,1.1487483 l 128,0 z" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath20-1">
-      <path
-         style="fill:#5a4f42;fill-opacity:1;stroke-width:10;stroke-linejoin:round"
-         d="M 1,80.000003 64.5,191.00001 v 32 L 1,112 Z"
-         id="path21-5"
-         sodipodi:nodetypes="ccccc" />
-    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient477"
+       id="radialGradient478"
+       cx="128"
+       cy="112"
+       fx="128"
+       fy="112"
+       r="128"
+       gradientTransform="matrix(1,0,0,0.8660254,0,15.005155)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient477"
+       inkscape:collect="always"
+       inkscape:label="hex-gradient">
+      <stop
+         style="stop-color:#d55f25;stop-opacity:1;"
+         offset="0"
+         id="stop477" />
+      <stop
+         style="stop-color:#d3902c;stop-opacity:1;"
+         offset="1"
+         id="stop478" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient44"
+       id="linearGradient45"
+       x1="128"
+       y1="112"
+       x2="128"
+       y2="125.75"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient44"
+       inkscape:label="blade-gradient">
+      <stop
+         style="stop-color:#b6b6b6;stop-opacity:1;"
+         offset="0"
+         id="stop464" />
+      <stop
+         style="stop-color:#999999;stop-opacity:0;"
+         offset="1"
+         id="stop465" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient44-2"
+       id="linearGradient168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-15.75,55)"
+       x1="128"
+       y1="112"
+       x2="128"
+       y2="125.75" />
+    <linearGradient
+       id="linearGradient44-2"
+       inkscape:label="brownish-blade-gradient">
+      <stop
+         style="stop-color:#555555;stop-opacity:1;"
+         offset="0"
+         id="stop462" />
+      <stop
+         style="stop-color:#636363;stop-opacity:0;"
+         offset="1"
+         id="stop463" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient44-1"
+       id="linearGradient448"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(47.25,27.5)"
+       x1="128"
+       y1="112"
+       x2="128"
+       y2="125.75" />
+    <linearGradient
+       id="linearGradient44-1"
+       inkscape:label="brighter-blade-gradient">
+      <stop
+         style="stop-color:#fecd7e;stop-opacity:1;"
+         offset="0"
+         id="stop44" />
+      <stop
+         style="stop-color:#da8a18;stop-opacity:0;"
+         offset="1"
+         id="stop45" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient861"
+       id="linearGradient862"
+       x1="72.875"
+       y1="2.0000007"
+       x2="72.875"
+       y2="15.750001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,27.5)" />
+    <linearGradient
+       id="linearGradient861"
+       inkscape:collect="always"
+       inkscape:label="dark-patch-gradient">
+      <stop
+         style="stop-color:#d13300;stop-opacity:0;"
+         offset="0"
+         id="stop861" />
+      <stop
+         style="stop-color:#af0000;stop-opacity:0.32320443;"
+         offset="1"
+         id="stop862" />
+    </linearGradient>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g3-2"
+       id="g3-2-0"
        inkscape:label="size">
       <rect
          style="fill:#ffffff;fill-opacity:0.00392157;stroke-width:9.99998;stroke-linejoin:round"
-         id="rect2-2"
+         id="rect2-2-2"
          width="1"
          height="1.000001"
          x="0"
          y="223" />
       <rect
          style="fill:#ffffff;fill-opacity:0.00392157;stroke-width:9.99998;stroke-linejoin:round"
-         id="rect3-1"
+         id="rect3-1-8"
          width="1"
          height="1.000001"
          x="255"
@@ -280,7 +192,7 @@
     </g>
     <path
        sodipodi:type="star"
-       style="fill:#9ca772;fill-opacity:1;stroke:none;stroke-width:30.354;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:url(#radialGradient478);fill-opacity:1;stroke:none;stroke-width:30.354;stroke-linejoin:round;stroke-opacity:1"
        id="path1-6"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -296,74 +208,1480 @@
        transform="matrix(0.984375,0,0,0.99232078,2,0.86007318)"
        inkscape:label="hex" />
     <g
+       id="g478"
+       inkscape:label="grass"
+       style="display:inline">
+      <path
+         style="mix-blend-mode:overlay;fill:url(#linearGradient45);fill-opacity:1;stroke:none;stroke-linecap:round"
+         d="m 128,112 -7.875,13.75 h 15.75 z"
+         id="path1"
+         inkscape:label="blade" />
+      <path
+         style="mix-blend-mode:overlay;fill:url(#linearGradient168);fill-opacity:1;stroke:none;stroke-linecap:round"
+         d="m 112.25,167 -7.875,13.75 h 15.75 z"
+         id="path166"
+         inkscape:label="brownish-blade" />
+      <path
+         style="fill:url(#linearGradient448);fill-opacity:1;stroke:none;stroke-linecap:round"
+         d="m 175.25,139.5 -7.875,13.75 h 15.75 z"
+         id="path422"
+         inkscape:label="brighter-blade" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use1"
+         inkscape:label="blade-clone"
+         transform="translate(-7.875,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use2"
+         inkscape:label="blade-clone"
+         transform="translate(7.875,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use3"
+         inkscape:label="blade-clone"
+         transform="translate(-15.75,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use4"
+         inkscape:label="blade-clone"
+         transform="translate(0,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use5"
+         inkscape:label="blade-clone"
+         transform="translate(15.75,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use6"
+         inkscape:label="blade-clone"
+         transform="translate(-23.625,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use7"
+         inkscape:label="blade-clone"
+         transform="translate(-7.875,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use8"
+         inkscape:label="blade-clone"
+         transform="translate(7.875,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use9"
+         inkscape:label="blade-clone"
+         transform="translate(23.625,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use10"
+         inkscape:label="blade-clone"
+         transform="translate(31.5,55)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use11"
+         inkscape:label="blade-clone"
+         transform="translate(23.625,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use12"
+         inkscape:label="blade-clone"
+         transform="translate(39.375,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use13"
+         inkscape:label="blade-clone"
+         transform="translate(15.75,82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use14"
+         inkscape:label="blade-clone"
+         transform="translate(31.5,82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use15"
+         inkscape:label="blade-clone"
+         transform="translate(47.25,82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use16"
+         inkscape:label="blade-clone"
+         transform="translate(55.125,96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use17"
+         inkscape:label="blade-clone"
+         transform="translate(7.875,96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use18"
+         inkscape:label="blade-clone"
+         transform="translate(23.625,96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use19"
+         inkscape:label="blade-clone"
+         transform="translate(39.375,96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use20"
+         inkscape:label="blade-clone"
+         transform="translate(0,55)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use21"
+         inkscape:label="blade-clone"
+         transform="translate(15.75,55)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use22"
+         inkscape:label="blade-clone"
+         transform="translate(-7.875,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use23"
+         inkscape:label="blade-clone"
+         transform="translate(7.875,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use24"
+         inkscape:label="blade-clone"
+         transform="translate(-15.75,82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use25"
+         inkscape:label="blade-clone"
+         transform="translate(0,82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use26"
+         inkscape:label="blade-clone"
+         transform="translate(-23.625,96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use27"
+         inkscape:label="blade-clone"
+         transform="translate(-7.875,96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use28"
+         inkscape:label="blade-clone"
+         transform="translate(-31.5,55)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use29"
+         inkscape:label="blade-clone"
+         transform="translate(-23.625,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use30"
+         inkscape:label="blade-clone"
+         transform="translate(-39.375,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use31"
+         inkscape:label="blade-clone"
+         transform="translate(-31.5,82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use32"
+         inkscape:label="blade-clone"
+         transform="translate(-47.25,82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use33"
+         inkscape:label="blade-clone"
+         transform="translate(-55.125,96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use34"
+         inkscape:label="blade-clone"
+         transform="translate(-39.375,96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use35"
+         inkscape:label="blade-clone"
+         transform="translate(47.25,-110)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use36"
+         inkscape:label="blade-clone"
+         transform="translate(0,-110)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use37"
+         inkscape:label="blade-clone"
+         transform="translate(15.75,-110)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use38"
+         inkscape:label="blade-clone"
+         transform="translate(31.5,-110)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use39"
+         inkscape:label="blade-clone"
+         transform="translate(-31.5,-110)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use40"
+         inkscape:label="blade-clone"
+         transform="translate(-15.75,-110)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use41"
+         inkscape:label="blade-clone"
+         transform="translate(-63,-110)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use42"
+         inkscape:label="blade-clone"
+         transform="translate(-47.25,-110)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use43"
+         inkscape:label="blade-clone"
+         transform="translate(63,-110)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use45"
+         inkscape:label="blade-clone"
+         transform="translate(7.875,-96.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use46"
+         inkscape:label="blade-clone"
+         transform="translate(23.625,-96.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use47"
+         inkscape:label="blade-clone"
+         transform="translate(39.375,-96.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use48"
+         inkscape:label="blade-clone"
+         transform="translate(-23.625,-96.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use49"
+         inkscape:label="blade-clone"
+         transform="translate(-7.875,-96.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use50"
+         inkscape:label="blade-clone"
+         transform="translate(-55.125,-96.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use51"
+         inkscape:label="blade-clone"
+         transform="translate(31.5,-82.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use52"
+         inkscape:label="blade-clone"
+         transform="translate(-15.75,-82.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use53"
+         inkscape:label="blade-clone"
+         transform="translate(0,-82.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use54"
+         inkscape:label="blade-clone"
+         transform="translate(15.75,-82.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use55"
+         inkscape:label="blade-clone"
+         transform="translate(-47.25,-82.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use56"
+         inkscape:label="blade-clone"
+         transform="translate(-31.5,-82.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use57"
+         inkscape:label="blade-clone"
+         transform="translate(55.125,-96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use58"
+         inkscape:label="blade-clone"
+         transform="translate(47.25,-82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use59"
+         inkscape:label="blade-clone"
+         transform="translate(39.375,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use60"
+         inkscape:label="blade-clone"
+         transform="translate(-7.875,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use61"
+         inkscape:label="blade-clone"
+         transform="translate(7.875,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use62"
+         inkscape:label="blade-clone"
+         transform="translate(23.625,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use63"
+         inkscape:label="blade-clone"
+         transform="translate(-39.375,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use64"
+         inkscape:label="blade-clone"
+         transform="translate(-23.625,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use65"
+         inkscape:label="blade-clone"
+         transform="translate(47.25,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use66"
+         inkscape:label="blade-clone"
+         transform="translate(0,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use67"
+         inkscape:label="blade-clone"
+         transform="translate(15.75,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use68"
+         inkscape:label="blade-clone"
+         transform="translate(31.5,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use69"
+         inkscape:label="blade-clone"
+         transform="translate(-31.5,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use70"
+         inkscape:label="blade-clone"
+         transform="translate(-15.75,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use71"
+         inkscape:label="blade-clone"
+         transform="translate(23.625,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use72"
+         inkscape:label="blade-clone"
+         transform="translate(39.375,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use73"
+         inkscape:label="blade-clone"
+         transform="translate(-23.625,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use74"
+         inkscape:label="blade-clone"
+         transform="translate(-7.875,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use75"
+         inkscape:label="blade-clone"
+         transform="translate(70.875,-96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use76"
+         inkscape:label="blade-clone"
+         transform="translate(63,-82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use77"
+         inkscape:label="blade-clone"
+         transform="translate(78.75,-82.500001)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use78"
+         inkscape:label="blade-clone"
+         transform="translate(86.625,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use79"
+         inkscape:label="blade-clone"
+         transform="translate(55.125,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use80"
+         inkscape:label="blade-clone"
+         transform="translate(70.875,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use81"
+         inkscape:label="blade-clone"
+         transform="translate(94.5,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use82"
+         inkscape:label="blade-clone"
+         transform="translate(63,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use83"
+         inkscape:label="blade-clone"
+         transform="translate(78.75,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use84"
+         inkscape:label="blade-clone"
+         transform="translate(102.375,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use85"
+         inkscape:label="blade-clone"
+         transform="translate(70.875,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use86"
+         inkscape:label="blade-clone"
+         transform="translate(86.625,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use87"
+         inkscape:label="blade-clone"
+         transform="translate(-70.875,-96.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use88"
+         inkscape:label="blade-clone"
+         transform="translate(-63,-82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use89"
+         inkscape:label="blade-clone"
+         transform="translate(-78.75,-82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use90"
+         inkscape:label="blade-clone"
+         transform="translate(-55.125,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use91"
+         inkscape:label="blade-clone"
+         transform="translate(-70.875,-68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use92"
+         inkscape:label="blade-clone"
+         transform="translate(-86.625,-68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use93"
+         inkscape:label="blade-clone"
+         transform="translate(-63,-55)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use94"
+         inkscape:label="blade-clone"
+         transform="translate(-78.75,-55.000001)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use95"
+         inkscape:label="blade-clone"
+         transform="translate(-94.5,-55.000001)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use96"
+         inkscape:label="blade-clone"
+         transform="translate(-39.375,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use97"
+         inkscape:label="blade-clone"
+         transform="translate(-86.625,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use98"
+         inkscape:label="blade-clone"
+         transform="translate(-70.875,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use99"
+         inkscape:label="blade-clone"
+         transform="translate(-55.125,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use101"
+         inkscape:label="blade-clone"
+         transform="translate(-102.375,-41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use102"
+         inkscape:label="blade-clone"
+         transform="translate(-31.5,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use103"
+         inkscape:label="blade-clone"
+         transform="translate(-15.75,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use104"
+         inkscape:label="blade-clone"
+         transform="translate(-47.25,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use105"
+         inkscape:label="blade-clone"
+         transform="translate(-94.5,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use106"
+         inkscape:label="blade-clone"
+         transform="translate(-78.75,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use107"
+         inkscape:label="blade-clone"
+         transform="translate(-63,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use108"
+         inkscape:label="blade-clone"
+         transform="translate(-110.25,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use109"
+         inkscape:label="blade-clone"
+         transform="translate(-39.375,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use110"
+         inkscape:label="blade-clone"
+         transform="translate(-55.125,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use111"
+         inkscape:label="blade-clone"
+         transform="translate(-102.375,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use112"
+         inkscape:label="blade-clone"
+         transform="translate(-86.625,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use113"
+         inkscape:label="blade-clone"
+         transform="translate(-70.875,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use114"
+         inkscape:label="blade-clone"
+         transform="translate(-118.125,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use115"
+         inkscape:label="blade-clone"
+         transform="translate(-110.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use116"
+         inkscape:label="blade-clone"
+         transform="translate(-47.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use117"
+         inkscape:label="blade-clone"
+         transform="translate(-63)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use118"
+         inkscape:label="blade-clone"
+         transform="translate(-78.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use119"
+         inkscape:label="blade-clone"
+         transform="translate(-31.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use120"
+         inkscape:label="blade-clone"
+         transform="translate(-7.875,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use121"
+         inkscape:label="blade-clone"
+         transform="translate(0,-27.500004)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use122"
+         inkscape:label="blade-clone"
+         transform="translate(15.75,-27.500004)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use123"
+         inkscape:label="blade-clone"
+         transform="translate(7.875,-13.750004)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use124"
+         inkscape:label="blade-clone"
+         transform="translate(31.5,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use125"
+         inkscape:label="blade-clone"
+         transform="translate(23.625,-13.750004)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use126"
+         inkscape:label="blade-clone"
+         transform="translate(15.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use127"
+         inkscape:label="blade-clone"
+         transform="translate(47.25,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use128"
+         inkscape:label="blade-clone"
+         transform="translate(39.375,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use129"
+         inkscape:label="blade-clone"
+         transform="translate(31.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use130"
+         inkscape:label="blade-clone"
+         transform="translate(23.625,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use131"
+         inkscape:label="blade-clone"
+         transform="translate(31.5,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use132"
+         inkscape:label="blade-clone"
+         transform="translate(63,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use133"
+         inkscape:label="blade-clone"
+         transform="translate(55.125,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use134"
+         inkscape:label="blade-clone"
+         transform="translate(47.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use135"
+         inkscape:label="blade-clone"
+         transform="translate(39.375,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use136"
+         inkscape:label="blade-clone"
+         transform="translate(39.375,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use137"
+         inkscape:label="blade-clone"
+         transform="translate(78.75,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use138"
+         inkscape:label="blade-clone"
+         transform="translate(70.875,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use139"
+         inkscape:label="blade-clone"
+         transform="translate(55.125,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use140"
+         inkscape:label="blade-clone"
+         transform="translate(55.125,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use141"
+         inkscape:label="blade-clone"
+         transform="translate(47.25,55)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use142"
+         inkscape:label="blade-clone"
+         transform="translate(63,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use143"
+         inkscape:label="blade-clone"
+         transform="translate(94.5,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use144"
+         inkscape:label="blade-clone"
+         transform="translate(86.625,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use145"
+         inkscape:label="blade-clone"
+         transform="translate(78.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use146"
+         inkscape:label="blade-clone"
+         transform="translate(70.875,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use147"
+         inkscape:label="blade-clone"
+         transform="translate(55.125,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use148"
+         inkscape:label="blade-clone"
+         transform="translate(70.875,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use149"
+         inkscape:label="blade-clone"
+         transform="translate(63,55)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use150"
+         inkscape:label="blade-clone"
+         transform="translate(78.75,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use151"
+         inkscape:label="blade-clone"
+         transform="translate(110.25,-27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use152"
+         inkscape:label="blade-clone"
+         transform="translate(102.375,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use153"
+         inkscape:label="blade-clone"
+         transform="translate(94.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use154"
+         inkscape:label="blade-clone"
+         transform="translate(86.625,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use156"
+         inkscape:label="blade-clone"
+         transform="translate(63,82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use157"
+         inkscape:label="blade-clone"
+         transform="translate(78.75,55)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use158"
+         inkscape:label="blade-clone"
+         transform="translate(70.875,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use159"
+         inkscape:label="blade-clone"
+         transform="translate(86.625,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use160"
+         inkscape:label="blade-clone"
+         transform="translate(118.125,-13.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use161"
+         inkscape:label="blade-clone"
+         transform="translate(110.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use162"
+         inkscape:label="blade-clone"
+         transform="translate(102.375,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use163"
+         inkscape:label="blade-clone"
+         transform="translate(94.5,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use164"
+         inkscape:label="blade-clone"
+         transform="translate(-23.625,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use165"
+         inkscape:label="blade-clone"
+         transform="translate(-39.375,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use166"
+         inkscape:label="blade-clone"
+         transform="translate(-31.5,27.499999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use167"
+         inkscape:label="blade-clone"
+         transform="translate(-55.125,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use168"
+         inkscape:label="blade-clone"
+         transform="translate(-47.25,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use169"
+         inkscape:label="blade-clone"
+         transform="translate(-39.375,41.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use170"
+         inkscape:label="blade-clone"
+         transform="translate(-70.875,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use171"
+         inkscape:label="blade-clone"
+         transform="translate(-63,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use172"
+         inkscape:label="blade-clone"
+         transform="translate(-55.125,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use173"
+         inkscape:label="blade-clone"
+         transform="translate(-47.25,54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use174"
+         inkscape:label="blade-clone"
+         transform="translate(-86.625,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use175"
+         inkscape:label="blade-clone"
+         transform="translate(-78.75,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use176"
+         inkscape:label="blade-clone"
+         transform="translate(-70.875,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use177"
+         inkscape:label="blade-clone"
+         transform="translate(-63,54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use178"
+         inkscape:label="blade-clone"
+         transform="translate(-70.875,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use179"
+         inkscape:label="blade-clone"
+         transform="translate(-102.375,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use180"
+         inkscape:label="blade-clone"
+         transform="translate(-94.5,27.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use181"
+         inkscape:label="blade-clone"
+         transform="translate(-86.625,41.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use182"
+         inkscape:label="blade-clone"
+         transform="translate(-78.75,54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use183"
+         inkscape:label="blade-clone"
+         transform="translate(-63,82.5)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path166"
+         id="use184"
+         inkscape:label="brownish-blade-clone"
+         transform="translate(-7.875,-68.749999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path166"
+         id="use185"
+         inkscape:label="brownish-blade-clone"
+         transform="translate(-78.75,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path166"
+         id="use186"
+         inkscape:label="brownish-blade-clone"
+         transform="translate(78.75,-54.999999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path166"
+         id="use187"
+         inkscape:label="brownish-blade-clone"
+         transform="translate(23.625,-96.249999)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path166"
+         id="use188"
+         inkscape:label="brownish-blade-clone"
+         transform="translate(-23.625,-151.25)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path422"
+         id="use189"
+         transform="translate(-63,-27.499999)"
+         inkscape:label="brighter-blade-clone" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path422"
+         id="use190"
+         transform="translate(-102.375,41.249999)"
+         inkscape:label="brighter-blade-clone" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path422"
+         id="use191"
+         transform="translate(-94.5,-82.499999)"
+         inkscape:label="brighter-blade-clone" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path422"
+         id="use192"
+         transform="translate(7.875,-68.749999)"
+         inkscape:label="brighter-blade-clone" />
+    </g>
+    <g
+       id="g17"
+       inkscape:label="dark patches">
+      <path
+         style="opacity:1;mix-blend-mode:multiply;fill:url(#linearGradient862);fill-opacity:1;stroke:none;stroke-linecap:round"
+         d="M 65,29.5 72.875,43.250001 80.75,29.500002 Z"
+         id="path861"
+         inkscape:label="dark-patch" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path861"
+         id="use193"
+         inkscape:label="dark-patch-clone"
+         transform="translate(70.875,13.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path861"
+         id="use194"
+         inkscape:label="dark-patch-clone"
+         transform="translate(7.875,68.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path861"
+         id="use195"
+         inkscape:label="dark-patch-clone"
+         transform="translate(118.125,123.75)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path861"
+         id="use196"
+         inkscape:label="dark-patch-clone"
+         transform="translate(31.5,165)" />
+    </g>
+    <g
        id="g8-1"
        inkscape:label="bevel">
       <path
          style="opacity:1;mix-blend-mode:overlay;fill:#ffffff;stroke:none;stroke-width:4;stroke-dasharray:none;paint-order:stroke fill markers"
          d="m 2,112 h 2 l 62,108 -1,2 z"
-         id="path3-3"
+         id="path3-6"
          sodipodi:nodetypes="ccccc" />
       <path
          style="opacity:0.333;mix-blend-mode:overlay;fill:#ffffff;stroke:none;stroke-width:4;stroke-dasharray:none;paint-order:stroke fill markers"
          d="M 2,112 H 4 L 66,4 65,2.0000012 Z"
-         id="path4-3"
+         id="path4-0"
          sodipodi:nodetypes="ccccc" />
       <path
          style="opacity:0.333;mix-blend-mode:overlay;fill:#ffffff;stroke:none;stroke-width:4;stroke-dasharray:none;paint-order:stroke fill markers"
          d="m 65,222 1,-2 h 124 l 1,2 z"
-         id="path5-4"
+         id="path5-2"
          sodipodi:nodetypes="ccccc" />
       <path
          style="opacity:0.333;mix-blend-mode:overlay;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;paint-order:stroke fill markers"
          d="M 65,2.0000012 66,4 l 124,-3e-7 1,-1.9999985 z"
-         id="path6-1"
+         id="path6-4"
          sodipodi:nodetypes="ccccc" />
       <path
          style="opacity:0.333;mix-blend-mode:overlay;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;paint-order:stroke fill markers"
          d="m 254,112 h -2 l -62,108 1,2 z"
-         id="path7-1"
+         id="path7-8"
          sodipodi:nodetypes="ccccc" />
       <path
          style="opacity:1;mix-blend-mode:overlay;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;paint-order:stroke fill markers"
          d="m 254,112 h -2 L 190,4.0000002 191,2.0000017 Z"
-         id="path8-3"
+         id="path8-6"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       id="g27-8"
+       id="g11"
+       inkscape:label="hill"
+       style="display:inline;opacity:0.2;mix-blend-mode:normal"
+       transform="translate(0,12)">
+      <path
+         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.6;stroke-width:4;stroke-dasharray:none"
+         d="M 72.875,3.750001 96.5,17.5 h 63 L 183.125,3.750001 Z"
+         id="path6"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.60274;stroke-width:4;stroke-dasharray:none"
+         d="M 72.875,196.25 C 80.75,182.5 88.625,168.75 96.5,155 c 21,0 42,0 63,0 7.875,13.75 15.75,27.5 23.625,41.25 -36.75,0 -73.5,0 -110.25,0 z"
+         id="path7" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.600457;stroke-width:4;stroke-dasharray:none"
+         d="M 183.125,196.25 C 175.25,182.5 167.375,168.75 159.5,155 c 13.125,-22.91667 26.25,-45.83333 39.375,-68.75 13.125,4.583333 26.25,9.166667 39.375,13.75 -18.375,32.08333 -36.75,64.16667 -55.125,96.25 z"
+         id="path8" />
+      <path
+         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.600457;stroke-width:4;stroke-dasharray:none"
+         d="M 72.875,3.750001 C 80.75,8.333334 88.625,12.916667 96.5,17.5 83.375,40.416667 70.25,63.333334 57.125,86.250001 44,90.833334 30.875,95.416667 17.75,100 36.125,67.916667 54.5,35.833334 72.875,3.750001 Z"
+         id="path9" />
+      <path
+         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-dasharray:none"
+         d="M 17.75,100 C 30.875,95.416667 44,90.833334 57.125,86.250001 70.25,109.16667 83.375,132.08333 96.5,155 88.625,168.75 80.75,182.5 72.875,196.25 54.5,164.16667 36.125,132.08333 17.75,100 Z"
+         id="path10" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:4;stroke-dasharray:none"
+         d="M 183.125,3.750001 C 175.25,8.333334 167.375,12.916667 159.5,17.5 172.625,40.416667 185.75,63.333333 198.875,86.25 212,90.833333 225.125,95.416667 238.25,100 219.875,67.916667 201.5,35.833334 183.125,3.750001 Z"
+         id="path11" />
+    </g>
+    <g
+       id="g27-5"
        inkscape:label="hill"
        style="display:inline;opacity:0.5;mix-blend-mode:overlay"
        transform="translate(0,12)">
       <path
-         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.33;stroke-width:4;stroke-dasharray:none"
-         d="M 73.653156,5.0000022 87.239868,11.632885 H 169.02358 L 182.34685,5.0000022 Z"
-         id="path31-4-7" />
+         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.6;stroke-width:4;stroke-dasharray:none"
+         d="M 72.875,3.750001 96.5,17.5 h 63 L 183.125,3.750001 Z"
+         id="path31-4-0"
+         sodipodi:nodetypes="ccccc" />
       <path
-         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.33;stroke-width:4;stroke-dasharray:none"
-         d="M 73.653156,195 87.239868,154.13288 169.02358,154.5934 182.34685,195 Z"
-         id="path29-1-4" />
+         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.60274;stroke-width:4;stroke-dasharray:none"
+         d="M 72.875,196.25 C 80.75,182.5 88.625,168.75 96.5,155 c 21,0 42,0 63,0 7.875,13.75 15.75,27.5 23.625,41.25 -36.75,0 -73.5,0 -110.25,0 z"
+         id="path29-1-9" />
       <path
-         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.33;stroke-width:4;stroke-dasharray:none"
-         d="M 182.34685,195 168.76013,154.13288 209.91544,83.113143 236.69369,100 Z"
-         id="path32-1-2" />
+         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.600457;stroke-width:4;stroke-dasharray:none"
+         d="M 183.125,196.25 C 175.25,182.5 167.375,168.75 159.5,155 c 13.125,-22.91667 26.25,-45.83333 39.375,-68.75 13.125,4.583333 26.25,9.166667 39.375,13.75 -18.375,32.08333 -36.75,64.16667 -55.125,96.25 z"
+         id="path32-1-0" />
       <path
-         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.33;stroke-width:4;stroke-dasharray:none"
-         d="M 73.653156,5.0000022 87.239868,11.632885 46.348009,83.113143 19.306312,100 Z"
-         id="path30-3-7" />
+         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.600457;stroke-width:4;stroke-dasharray:none"
+         d="M 72.875,3.750001 C 80.75,8.333334 88.625,12.916667 96.5,17.5 83.375,40.416667 70.25,63.333334 57.125,86.250001 44,90.833334 30.875,95.416667 17.75,100 36.125,67.916667 54.5,35.833334 72.875,3.750001 Z"
+         id="path30-3-0" />
       <path
          style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-dasharray:none"
-         d="M 19.306312,100 46.348009,83.113143 87.239868,154.5934 73.653156,195 Z"
-         id="path28-8-7" />
+         d="M 17.75,100 C 30.875,95.416667 44,90.833334 57.125,86.250001 70.25,109.16667 83.375,132.08333 96.5,155 88.625,168.75 80.75,182.5 72.875,196.25 54.5,164.16667 36.125,132.08333 17.75,100 Z"
+         id="path28-8-6" />
       <path
          style="mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:4;stroke-dasharray:none"
-         d="M 182.34685,5.0000022 169.02358,11.632885 209.91544,83.113143 236.69369,100 Z"
-         id="path33-7-9" />
+         d="M 183.125,3.750001 C 175.25,8.333334 167.375,12.916667 159.5,17.5 172.625,40.416667 185.75,63.333333 198.875,86.25 212,90.833333 225.125,95.416667 238.25,100 219.875,67.916667 201.5,35.833334 183.125,3.750001 Z"
+         id="path33-7-1" />
     </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g27-8"
-       id="use1"
-       inkscape:label="hill" />
   </g>
 </svg>
