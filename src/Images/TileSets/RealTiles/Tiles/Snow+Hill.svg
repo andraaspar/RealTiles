@@ -29,8 +29,8 @@
      inkscape:document-units="px"
      labelstyle="default"
      inkscape:zoom="1.6694585"
-     inkscape:cx="-27.254347"
-     inkscape:cy="114.70786"
+     inkscape:cx="114.70785"
+     inkscape:cy="38.93478"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -366,56 +366,54 @@
     <g
        id="g27-5"
        inkscape:label="hill"
-       style="display:inline;opacity:0.5;mix-blend-mode:overlay"
+       style="display:inline;opacity:1;mix-blend-mode:overlay"
        transform="translate(0,12)">
       <path
-         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.5;stroke-width:4;stroke-dasharray:none"
-         d="M 73.653156,5.0000022 87.239868,11.632885 H 169.02358 L 182.34685,5.0000022 Z"
-         id="path31-4-0" />
+         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.6;stroke-width:4;stroke-dasharray:none"
+         d="M 72.875,3.750001 96.5,17.5 h 63 L 183.125,3.750001 Z"
+         id="path31-4-0"
+         sodipodi:nodetypes="ccccc" />
       <path
-         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.33;stroke-width:4;stroke-dasharray:none"
-         d="M 73.653156,195 87.239868,154.13288 169.02358,154.5934 182.34685,195 Z"
+         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.60274;stroke-width:4;stroke-dasharray:none"
+         d="M 72.875,196.25 C 80.75,182.5 88.625,168.75 96.5,155 c 21,0 42,0 63,0 7.875,13.75 15.75,27.5 23.625,41.25 -36.75,0 -73.5,0 -110.25,0 z"
          id="path29-1-9" />
       <path
-         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.5;stroke-width:4;stroke-dasharray:none"
-         d="M 182.34685,195 168.76013,154.13288 209.91544,83.113143 236.69369,100 Z"
+         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.600457;stroke-width:4;stroke-dasharray:none"
+         d="M 183.125,196.25 C 175.25,182.5 167.375,168.75 159.5,155 c 13.125,-22.91667 26.25,-45.83333 39.375,-68.75 13.125,4.583333 26.25,9.166667 39.375,13.75 -18.375,32.08333 -36.75,64.16667 -55.125,96.25 z"
          id="path32-1-0" />
       <path
-         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.33;stroke-width:4;stroke-dasharray:none"
-         d="M 73.653156,5.0000022 87.239868,11.632885 46.348009,83.113143 19.306312,100 Z"
+         style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.600457;stroke-width:4;stroke-dasharray:none"
+         d="M 72.875,3.750001 C 80.75,8.333334 88.625,12.916667 96.5,17.5 83.375,40.416667 70.25,63.333334 57.125,86.250001 44,90.833334 30.875,95.416667 17.75,100 36.125,67.916667 54.5,35.833334 72.875,3.750001 Z"
          id="path30-3-0" />
       <path
          style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-dasharray:none"
-         d="M 19.306312,100 46.348009,83.113143 87.239868,154.5934 73.653156,195 Z"
+         d="M 17.75,100 C 30.875,95.416667 44,90.833334 57.125,86.250001 70.25,109.16667 83.375,132.08333 96.5,155 88.625,168.75 80.75,182.5 72.875,196.25 54.5,164.16667 36.125,132.08333 17.75,100 Z"
          id="path28-8-6" />
       <path
          style="mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:4;stroke-dasharray:none"
-         d="M 182.34685,5.0000022 169.02358,11.632885 209.91544,83.113143 236.69369,100 Z"
+         d="M 183.125,3.750001 C 175.25,8.333334 167.375,12.916667 159.5,17.5 172.625,40.416667 185.75,63.333333 198.875,86.25 212,90.833333 225.125,95.416667 238.25,100 219.875,67.916667 201.5,35.833334 183.125,3.750001 Z"
          id="path33-7-1" />
     </g>
     <use
        x="0"
        y="0"
        xlink:href="#g27-5"
-       id="use1"
-       inkscape:label="hill" />
+       id="use29"
+       inkscape:label="hill"
+       style="opacity:1;mix-blend-mode:overlay" />
     <use
        x="0"
        y="0"
        xlink:href="#g27-5"
-       id="use2"
-       inkscape:label="hill" />
+       id="use30"
+       inkscape:label="hill"
+       style="opacity:1;mix-blend-mode:overlay" />
     <use
        x="0"
        y="0"
        xlink:href="#g27-5"
-       id="use3"
-       inkscape:label="hill" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g27-5"
-       id="use4"
+       id="use32"
+       style="display:inline;opacity:0.231939"
        inkscape:label="hill" />
   </g>
 </svg>
