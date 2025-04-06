@@ -220,8 +220,8 @@ bounds:66,0,64,11
 TileSets/RealTiles64/Borders/ConvexConcaveOuter
 bounds:132,18,64,6
 TileSets/RealTiles64/Borders/ConvexInner
-bounds:0,4,64,11
+bounds:0,5,64,11
 TileSets/RealTiles64/Tiles/Atoll
-bounds:0,17,64,47
+bounds:0,18,64,46
 TileSets/RealTiles64/Tiles/River-BottomLeft
 bounds:198,32,64,32
